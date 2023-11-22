@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-blog",
+  "version": "1.0.0",
+  "description": "Piko's blog app using NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piko",
+  "license": "ISC"
+}
